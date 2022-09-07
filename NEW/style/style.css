@@ -1,0 +1,21 @@
+h1{
+   border: solid 5px violet;
+    text-align: center;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    border: solid 5px pink;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    border: solid 5px black;
+    padding: 20px;
+
+}
